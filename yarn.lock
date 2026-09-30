@@ -2628,9 +2628,9 @@
   integrity sha512-bZBrLAIX1kpWelV0XemxBZllyRmM6vgFQQG2GdNb+r3Fkp0FOh1NJSvekXDs7jq70k4euu1cryLMfU+mTXlEpw==
 
 "@figma/plugin-typings@^1.36.0":
-  version "1.78.1"
-  resolved "https://registry.yarnpkg.com/@figma/plugin-typings/-/plugin-typings-1.78.1.tgz#8d3b610ad103d0cff0bc50bb49d459a4a7dca70f"
-  integrity sha512-bh5PJfmUv5R0PDfqCWLswjUkA0wwH8Z2jrTLSd8J5mL7KAZJHMHvTVwVHV8Jr7NLOvaVryEfeRMFMEY3pXuBAQ==
+  version "1.140.0"
+  resolved "https://registry.yarnpkg.com/@figma/plugin-typings/-/plugin-typings-1.140.0.tgz#0acbce83b78b040300266e55830505e7f81d9993"
+  integrity sha512-xo2yz7QqaK0uHCowOmoqmT2SRKSIgSW00T1DxRTtB8/JSWzr8f800LSxFyp0LuSGd9OiiDC3TCI2payahrKP7g==
 
 "@gar/promisify@^1.0.1":
   version "1.1.3"
